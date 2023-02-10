@@ -1,0 +1,1270 @@
+{
+  "meta": {
+    "code": 200,
+    "requestId": "63e67d33338f62494350088f"
+  },
+  "response": {
+    "venues": [
+      {
+        "id": "4bc88b03dc55eee1968ae8ac",
+        "name": "Milton Hotel Rome",
+        "location": {
+          "address": "Via Emanuele Filiberto 155",
+          "lat": 41.890368566051116,
+          "lng": 12.506495142114062,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 41.890368566051116,
+              "lng": 12.506495142114062
+            }
+          ],
+          "cc": "IT",
+          "city": "Roma",
+          "state": "Lazio",
+          "country": "Italia",
+          "formattedAddress": [
+            "Via Emanuele Filiberto 155",
+            "Roma Lazio",
+            "Italia"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1fa931735",
+            "name": "Hotel",
+            "pluralName": "Hotels",
+            "shortName": "Hotel",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1676049715",
+        "hasPerk": false
+      },
+      {
+        "id": "4adcdabef964a520255121e3",
+        "name": "Best Western Hotel President",
+        "location": {
+          "address": "Via Emanuele Filiberto 173",
+          "lat": 41.89013012955251,
+          "lng": 12.506602564753848,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 41.89013012955251,
+              "lng": 12.506602564753848
+            }
+          ],
+          "postalCode": "00185",
+          "cc": "IT",
+          "city": "Roma",
+          "state": "Lazio",
+          "country": "Italia",
+          "formattedAddress": [
+            "Via Emanuele Filiberto 173",
+            "00185 Roma Lazio",
+            "Italia"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1fa931735",
+            "name": "Hotel",
+            "pluralName": "Hotels",
+            "shortName": "Hotel",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "venuePage": {
+          "id": "80085966"
+        },
+        "referralId": "v-1676049716",
+        "hasPerk": false
+      },
+      {
+        "id": "4dcfa2e21f6eb1227098e37e",
+        "name": "Hotel Center 1",
+        "location": {
+          "address": "Via Giovanni Giolitti 433",
+          "lat": 41.89308872280974,
+          "lng": 12.512607349620167,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 41.89308872280974,
+              "lng": 12.512607349620167
+            }
+          ],
+          "cc": "IT",
+          "city": "Roma",
+          "state": "Lazio",
+          "country": "Italia",
+          "formattedAddress": [
+            "Via Giovanni Giolitti 433",
+            "Roma Lazio",
+            "Italia"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1fa931735",
+            "name": "Hotel",
+            "pluralName": "Hotels",
+            "shortName": "Hotel",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1676049716",
+        "hasPerk": false
+      },
+      {
+        "id": "4adcdac1f964a520ea5121e3",
+        "name": "Hotel Lussemburgo Roma",
+        "location": {
+          "address": "Via Bixio, 70",
+          "crossStreet": "Via Conte Verde",
+          "lat": 41.8929332,
+          "lng": 12.5079428,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 41.8929332,
+              "lng": 12.5079428
+            }
+          ],
+          "postalCode": "00185",
+          "cc": "IT",
+          "city": "Roma",
+          "state": "Lazio",
+          "country": "Italia",
+          "formattedAddress": [
+            "Via Bixio, 70 (Via Conte Verde)",
+            "00185 Roma Lazio",
+            "Italia"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1fa931735",
+            "name": "Hotel",
+            "pluralName": "Hotels",
+            "shortName": "Hotel",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1676049716",
+        "hasPerk": false
+      },
+      {
+        "id": "52d54f09498e0d892fe695d9",
+        "name": "Hotel Eurostars Saint John",
+        "location": {
+          "lat": 41.889067073904314,
+          "lng": 12.505058722596102,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 41.889067073904314,
+              "lng": 12.505058722596102
+            }
+          ],
+          "cc": "IT",
+          "city": "Roma",
+          "state": "Lazio",
+          "country": "Italia",
+          "formattedAddress": [
+            "Roma Lazio",
+            "Italia"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1fa931735",
+            "name": "Hotel",
+            "pluralName": "Hotels",
+            "shortName": "Hotel",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1676049716",
+        "hasPerk": false
+      },
+      {
+        "id": "4bc8f813762beee152c13d38",
+        "name": "Hotel Taormina",
+        "location": {
+          "address": "Via Principe Eugenio",
+          "lat": 41.89388987201744,
+          "lng": 12.507491511051686,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 41.89388987201744,
+              "lng": 12.507491511051686
+            }
+          ],
+          "cc": "IT",
+          "city": "Roma",
+          "state": "Lazio",
+          "country": "Italia",
+          "formattedAddress": [
+            "Via Principe Eugenio",
+            "Roma Lazio",
+            "Italia"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1f8931735",
+            "name": "Bed & Breakfast",
+            "pluralName": "Bed & Breakfasts",
+            "shortName": "B & B",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/bedandbreakfast_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1676049716",
+        "hasPerk": false
+      },
+      {
+        "id": "4bc88a44dc55eee1ff89e8ac",
+        "name": "Hotel Caracciolo",
+        "location": {
+          "address": "Via Cairoli 88",
+          "lat": 41.89515446909335,
+          "lng": 12.508636289839922,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 41.89515446909335,
+              "lng": 12.508636289839922
+            }
+          ],
+          "postalCode": "00185",
+          "cc": "IT",
+          "city": "Roma",
+          "state": "Lazio",
+          "country": "Italia",
+          "formattedAddress": [
+            "Via Cairoli 88",
+            "00185 Roma Lazio",
+            "Italia"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1fa931735",
+            "name": "Hotel",
+            "pluralName": "Hotels",
+            "shortName": "Hotel",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1676049716",
+        "hasPerk": false
+      },
+      {
+        "id": "4bc30cc074a9a5938bf6d3f6",
+        "name": "Best Western Plus Hotel Milton Roma",
+        "location": {
+          "address": "Via E. Filiberto 155",
+          "lat": 41.890558186189075,
+          "lng": 12.506370395367412,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 41.890558186189075,
+              "lng": 12.506370395367412
+            }
+          ],
+          "postalCode": "00185",
+          "cc": "IT",
+          "city": "Roma",
+          "state": "Lazio",
+          "country": "Italia",
+          "formattedAddress": [
+            "Via E. Filiberto 155",
+            "00185 Roma Lazio",
+            "Italia"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1fa931735",
+            "name": "Hotel",
+            "pluralName": "Hotels",
+            "shortName": "Hotel",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1676049716",
+        "hasPerk": false
+      },
+      {
+        "id": "4d62806c5b276dcb954d30c6",
+        "name": "Hotel Gioberti",
+        "location": {
+          "address": "Via Gioberti 20",
+          "lat": 41.89946445128582,
+          "lng": 12.501203669353053,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 41.89946445128582,
+              "lng": 12.501203669353053
+            }
+          ],
+          "postalCode": "00185",
+          "cc": "IT",
+          "city": "Roma",
+          "state": "Lazio",
+          "country": "Italia",
+          "formattedAddress": [
+            "Via Gioberti 20",
+            "00185 Roma Lazio",
+            "Italia"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1fa931735",
+            "name": "Hotel",
+            "pluralName": "Hotels",
+            "shortName": "Hotel",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "venuePage": {
+          "id": "43342181"
+        },
+        "referralId": "v-1676049716",
+        "hasPerk": false
+      },
+      {
+        "id": "50325741e4b0dea803ed6e83",
+        "name": "Hotel Angela-Roma",
+        "location": {
+          "address": "Vittorio Emanuelle II, 55",
+          "lat": 41.894671,
+          "lng": 12.506233,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 41.894671,
+              "lng": 12.506233
+            }
+          ],
+          "cc": "IT",
+          "country": "Italia",
+          "formattedAddress": [
+            "Vittorio Emanuelle II, 55",
+            "Italia"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1fa931735",
+            "name": "Hotel",
+            "pluralName": "Hotels",
+            "shortName": "Hotel",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1676049716",
+        "hasPerk": false
+      },
+      {
+        "id": "4d9effb991af6ea81e818fe8",
+        "name": "Best Western Premier Hotel Royal Santina",
+        "location": {
+          "address": "Via Marsala 22",
+          "lat": 41.9031780439748,
+          "lng": 12.501636296456127,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 41.9031780439748,
+              "lng": 12.501636296456127
+            }
+          ],
+          "postalCode": "00185",
+          "cc": "IT",
+          "city": "Roma",
+          "state": "Lazio",
+          "country": "Italia",
+          "formattedAddress": [
+            "Via Marsala 22",
+            "00185 Roma Lazio",
+            "Italia"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1fa931735",
+            "name": "Hotel",
+            "pluralName": "Hotels",
+            "shortName": "Hotel",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "venuePage": {
+          "id": "78011345"
+        },
+        "referralId": "v-1676049716",
+        "hasPerk": false
+      },
+      {
+        "id": "4e5953411f6e804280c49a8d",
+        "name": "Hotel Meraviglio",
+        "location": {
+          "address": "Piazza Vittorio Emanuele II 55",
+          "lat": 41.894536,
+          "lng": 12.505818,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 41.894536,
+              "lng": 12.505818
+            }
+          ],
+          "cc": "IT",
+          "city": "Roma",
+          "state": "Lazio",
+          "country": "Italia",
+          "formattedAddress": [
+            "Piazza Vittorio Emanuele II 55",
+            "Roma Lazio",
+            "Italia"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1f8931735",
+            "name": "Bed & Breakfast",
+            "pluralName": "Bed & Breakfasts",
+            "shortName": "B & B",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/bedandbreakfast_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1676049716",
+        "hasPerk": false
+      },
+      {
+        "id": "4c3b1bf14565e21e5221566a",
+        "name": "iQ Hotel Roma",
+        "location": {
+          "address": "Via Firenze, 8",
+          "lat": 41.900426169222804,
+          "lng": 12.49517399631135,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 41.900426169222804,
+              "lng": 12.49517399631135
+            }
+          ],
+          "cc": "IT",
+          "city": "Roma",
+          "state": "Lazio",
+          "country": "Italia",
+          "formattedAddress": [
+            "Via Firenze, 8",
+            "Roma Lazio",
+            "Italia"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1fa931735",
+            "name": "Hotel",
+            "pluralName": "Hotels",
+            "shortName": "Hotel",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1676049716",
+        "hasPerk": false
+      },
+      {
+        "id": "4c235d51497cb713b21f6dd8",
+        "name": "Hotel Felice Rome",
+        "location": {
+          "address": "Via Tiburtina 30",
+          "lat": 41.89746338733818,
+          "lng": 12.512554213275198,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 41.89746338733818,
+              "lng": 12.512554213275198
+            }
+          ],
+          "postalCode": "00185",
+          "cc": "IT",
+          "city": "Roma",
+          "state": "Lazio",
+          "country": "Italia",
+          "formattedAddress": [
+            "Via Tiburtina 30",
+            "00185 Roma Lazio",
+            "Italia"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1fa931735",
+            "name": "Hotel",
+            "pluralName": "Hotels",
+            "shortName": "Hotel",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "venuePage": {
+          "id": "44701175"
+        },
+        "referralId": "v-1676049716",
+        "hasPerk": false
+      },
+      {
+        "id": "4d9b00bd03d8721eb80cdd24",
+        "name": "Edera Hotel",
+        "location": {
+          "address": "Via Angelo Poliziano 75",
+          "lat": 41.890735322048045,
+          "lng": 12.500135722201637,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 41.890735322048045,
+              "lng": 12.500135722201637
+            }
+          ],
+          "postalCode": "00184",
+          "cc": "IT",
+          "city": "Roma",
+          "state": "Lazio",
+          "country": "Italia",
+          "formattedAddress": [
+            "Via Angelo Poliziano 75",
+            "00184 Roma Lazio",
+            "Italia"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1fa931735",
+            "name": "Hotel",
+            "pluralName": "Hotels",
+            "shortName": "Hotel",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1676049716",
+        "hasPerk": false
+      },
+      {
+        "id": "4bc88a1fdc55eee1e489e8ac",
+        "name": "Hotel Capo D'Africa Rome",
+        "location": {
+          "address": "Via Capo d'Africa 54",
+          "lat": 41.888460185144304,
+          "lng": 12.497448453460988,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 41.888460185144304,
+              "lng": 12.497448453460988
+            }
+          ],
+          "cc": "IT",
+          "city": "Roma",
+          "state": "Lazio",
+          "country": "Italia",
+          "formattedAddress": [
+            "Via Capo d'Africa 54",
+            "Roma Lazio",
+            "Italia"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1fa931735",
+            "name": "Hotel",
+            "pluralName": "Hotels",
+            "shortName": "Hotel",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1676049716",
+        "hasPerk": false
+      },
+      {
+        "id": "4e59f8b818388cd5cbaafd45",
+        "name": "Hotel D'Este",
+        "location": {
+          "address": "Via Carlo Alberto 4/B",
+          "crossStreet": "Stazione Termini",
+          "lat": 41.896581497483496,
+          "lng": 12.500939426902365,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 41.896581497483496,
+              "lng": 12.500939426902365
+            }
+          ],
+          "postalCode": "00185",
+          "cc": "IT",
+          "city": "Roma",
+          "state": "Lazio",
+          "country": "Italia",
+          "formattedAddress": [
+            "Via Carlo Alberto 4/B (Stazione Termini)",
+            "00185 Roma Lazio",
+            "Italia"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1fa931735",
+            "name": "Hotel",
+            "pluralName": "Hotels",
+            "shortName": "Hotel",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1676049716",
+        "hasPerk": false
+      },
+      {
+        "id": "4bc888dfdc55eee12289e8ac",
+        "name": "Ariston Hotel Rome",
+        "location": {
+          "address": "Via Filippo Turati, 16",
+          "lat": 41.89905297141196,
+          "lng": 12.501367764761277,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 41.89905297141196,
+              "lng": 12.501367764761277
+            }
+          ],
+          "postalCode": "00185",
+          "cc": "IT",
+          "city": "Roma",
+          "state": "Lazio",
+          "country": "Italia",
+          "formattedAddress": [
+            "Via Filippo Turati, 16",
+            "00185 Roma Lazio",
+            "Italia"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1fa931735",
+            "name": "Hotel",
+            "pluralName": "Hotels",
+            "shortName": "Hotel",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1676049716",
+        "hasPerk": false
+      },
+      {
+        "id": "4bc889c4dc55eee1a589e8ac",
+        "name": "Ateneo Garden Palace Hotel",
+        "location": {
+          "address": "Piazza dei Siculi 9",
+          "lat": 41.89852143316335,
+          "lng": 12.511436475058451,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 41.89852143316335,
+              "lng": 12.511436475058451
+            }
+          ],
+          "postalCode": "00185",
+          "cc": "IT",
+          "city": "Roma",
+          "state": "Lazio",
+          "country": "Italia",
+          "formattedAddress": [
+            "Piazza dei Siculi 9",
+            "00185 Roma Lazio",
+            "Italia"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1fa931735",
+            "name": "Hotel",
+            "pluralName": "Hotels",
+            "shortName": "Hotel",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1676049716",
+        "hasPerk": false
+      },
+      {
+        "id": "4bc8c75b762beee1cc853d38",
+        "name": "Hotel Mediterraneo",
+        "location": {
+          "address": "Via Cavour 15",
+          "lat": 41.9003502948737,
+          "lng": 12.498987243459519,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 41.9003502948737,
+              "lng": 12.498987243459519
+            }
+          ],
+          "cc": "IT",
+          "city": "Roma",
+          "state": "Lazio",
+          "country": "Italia",
+          "formattedAddress": [
+            "Via Cavour 15",
+            "Roma Lazio",
+            "Italia"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d133951735",
+            "name": "Roof Deck",
+            "pluralName": "Roof Decks",
+            "shortName": "Roof Deck",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_roofdeck_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1676049716",
+        "hasPerk": false
+      },
+      {
+        "id": "4ca30554750ca093a40d1567",
+        "name": "Hotel Morgana",
+        "location": {
+          "address": "Via Filippo Turati 35",
+          "lat": 41.89895869686846,
+          "lng": 12.502024651109185,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 41.89895869686846,
+              "lng": 12.502024651109185
+            }
+          ],
+          "postalCode": "00185",
+          "cc": "IT",
+          "city": "Roma",
+          "state": "Lazio",
+          "country": "Italia",
+          "formattedAddress": [
+            "Via Filippo Turati 35",
+            "00185 Roma Lazio",
+            "Italia"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1fa931735",
+            "name": "Hotel",
+            "pluralName": "Hotels",
+            "shortName": "Hotel",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1676049716",
+        "hasPerk": false
+      },
+      {
+        "id": "4da6499b1e722893cd1dd0f6",
+        "name": "Hotel Filippo Roma",
+        "location": {
+          "address": "Via Filippo Turati, 163",
+          "lat": 41.89739637002012,
+          "lng": 12.505378323880631,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 41.89739637002012,
+              "lng": 12.505378323880631
+            }
+          ],
+          "postalCode": "00185",
+          "cc": "IT",
+          "city": "Roma",
+          "state": "Lazio",
+          "country": "Italia",
+          "formattedAddress": [
+            "Via Filippo Turati, 163",
+            "00185 Roma Lazio",
+            "Italia"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1fa931735",
+            "name": "Hotel",
+            "pluralName": "Hotels",
+            "shortName": "Hotel",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1676049716",
+        "hasPerk": false
+      },
+      {
+        "id": "4bc88aebdc55eee1808ae8ac",
+        "name": "Hotel Raffaello",
+        "location": {
+          "address": "Via Urbana 3",
+          "lat": 41.89776997207932,
+          "lng": 12.495622349856664,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 41.89776997207932,
+              "lng": 12.495622349856664
+            }
+          ],
+          "postalCode": "00184",
+          "cc": "IT",
+          "city": "Roma",
+          "state": "Lazio",
+          "country": "Italia",
+          "formattedAddress": [
+            "Via Urbana 3",
+            "00184 Roma Lazio",
+            "Italia"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1fa931735",
+            "name": "Hotel",
+            "pluralName": "Hotels",
+            "shortName": "Hotel",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1676049716",
+        "hasPerk": false
+      },
+      {
+        "id": "4bc88918dc55eee14189e8ac",
+        "name": "Hotel Madison",
+        "location": {
+          "address": "Via Marsala 60",
+          "lat": 41.901841052768155,
+          "lng": 12.50320075421366,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 41.901841052768155,
+              "lng": 12.50320075421366
+            }
+          ],
+          "cc": "IT",
+          "city": "Roma",
+          "state": "Lazio",
+          "country": "Italia",
+          "formattedAddress": [
+            "Via Marsala 60",
+            "Roma Lazio",
+            "Italia"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1fa931735",
+            "name": "Hotel",
+            "pluralName": "Hotels",
+            "shortName": "Hotel",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1676049716",
+        "hasPerk": false
+      },
+      {
+        "id": "4adcdac1f964a520ca5121e3",
+        "name": "Best Western Globus Hotel Rome",
+        "location": {
+          "address": "Viale Ippocrate, 119",
+          "lat": 41.90629303608017,
+          "lng": 12.517160148479434,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 41.90629303608017,
+              "lng": 12.517160148479434
+            }
+          ],
+          "postalCode": "00161",
+          "cc": "IT",
+          "city": "Roma",
+          "state": "Lazio",
+          "country": "Italia",
+          "formattedAddress": [
+            "Viale Ippocrate, 119",
+            "00161 Roma Lazio",
+            "Italia"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1fa931735",
+            "name": "Hotel",
+            "pluralName": "Hotels",
+            "shortName": "Hotel",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1676049716",
+        "hasPerk": false
+      },
+      {
+        "id": "4bc8f7ce762beee11cc13d38",
+        "name": "La Griffe Hotel Rome",
+        "location": {
+          "address": "Via Nazionale 13",
+          "lat": 41.90127780744452,
+          "lng": 12.494517868918138,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 41.90127780744452,
+              "lng": 12.494517868918138
+            }
+          ],
+          "postalCode": "00184",
+          "cc": "IT",
+          "city": "Roma",
+          "state": "Lazio",
+          "country": "Italia",
+          "formattedAddress": [
+            "Via Nazionale 13",
+            "00184 Roma Lazio",
+            "Italia"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1fa931735",
+            "name": "Hotel",
+            "pluralName": "Hotels",
+            "shortName": "Hotel",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1676049716",
+        "hasPerk": false
+      },
+      {
+        "id": "4b5f5432f964a52053b429e3",
+        "name": "Hotel Diocleziano",
+        "location": {
+          "address": "71 via gaeta",
+          "lat": 41.90402312749644,
+          "lng": 12.499590305171594,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 41.90402312749644,
+              "lng": 12.499590305171594
+            }
+          ],
+          "cc": "IT",
+          "city": "Roma",
+          "state": "Lazio",
+          "country": "Italia",
+          "formattedAddress": [
+            "71 via gaeta",
+            "Roma Lazio",
+            "Italia"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1fa931735",
+            "name": "Hotel",
+            "pluralName": "Hotels",
+            "shortName": "Hotel",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1676049716",
+        "hasPerk": false
+      },
+      {
+        "id": "4bc88adedc55eee1778ae8ac",
+        "name": "Welcome Piram Hotel Rome",
+        "location": {
+          "address": "Via Giovanni Amendola 7",
+          "lat": 41.90092036340686,
+          "lng": 12.498255235377453,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 41.90092036340686,
+              "lng": 12.498255235377453
+            }
+          ],
+          "cc": "IT",
+          "city": "Roma",
+          "state": "Lazio",
+          "country": "Italia",
+          "formattedAddress": [
+            "Via Giovanni Amendola 7",
+            "Roma Lazio",
+            "Italia"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1fa931735",
+            "name": "Hotel",
+            "pluralName": "Hotels",
+            "shortName": "Hotel",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1676049716",
+        "hasPerk": false
+      },
+      {
+        "id": "4be268641dd22d7fba1b94bd",
+        "name": "Hotel Terminal",
+        "location": {
+          "address": "Via Principe Amedeo, 103",
+          "lat": 41.897972895363445,
+          "lng": 12.50183881805146,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 41.897972895363445,
+              "lng": 12.50183881805146
+            }
+          ],
+          "postalCode": "00185",
+          "cc": "IT",
+          "city": "Roma",
+          "state": "Lazio",
+          "country": "Italia",
+          "formattedAddress": [
+            "Via Principe Amedeo, 103",
+            "00185 Roma Lazio",
+            "Italia"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1fa931735",
+            "name": "Hotel",
+            "pluralName": "Hotels",
+            "shortName": "Hotel",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1676049716",
+        "hasPerk": false
+      },
+      {
+        "id": "4bf77b8d8d30d13aaa2cff17",
+        "name": "Hotel Kennedy ***",
+        "location": {
+          "address": "Via Filippo Turati 64",
+          "crossStreet": "piazza manfredo Fanti",
+          "lat": 41.89845147110159,
+          "lng": 12.502187583737491,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 41.89845147110159,
+              "lng": 12.502187583737491
+            }
+          ],
+          "postalCode": "00185",
+          "cc": "IT",
+          "city": "Roma",
+          "state": "Lazio",
+          "country": "Italia",
+          "formattedAddress": [
+            "Via Filippo Turati 64 (piazza manfredo Fanti)",
+            "00185 Roma Lazio",
+            "Italia"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1fa931735",
+            "name": "Hotel",
+            "pluralName": "Hotels",
+            "shortName": "Hotel",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1676049716",
+        "hasPerk": false
+      }
+    ],
+    "geocode": {
+      "what": "",
+      "where": "roma",
+      "feature": {
+        "cc": "IT",
+        "name": "Rome",
+        "displayName": "Rome, Latium, Italy",
+        "matchedName": "Roma, Latium, Italy",
+        "highlightedName": "<b>Roma</b>, Latium, Italy",
+        "woeType": 7,
+        "slug": "roma",
+        "id": "geonameid:3169070",
+        "longId": "72057594041097006",
+        "geometry": {
+          "center": {
+            "lat": 41.89193,
+            "lng": 12.51133
+          },
+          "bounds": {
+            "ne": {
+              "lat": 41.98942097197372,
+              "lng": 12.615249866611695
+            },
+            "sw": {
+              "lat": 41.79461305370221,
+              "lng": 12.379309999999998
+            }
+          }
+        }
+      },
+      "parents": []
+    }
+  }
+}
