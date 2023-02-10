@@ -8,6 +8,7 @@ Se debe asumir que la api de reservas existe, no es necesario desarrollarla, es 
 
 Para los hoteles del destino se puede usar la API:
 
+
 ```
 https://api.foursquare.com/v2/venues/search?near={param1}&intent={param2}&query={param3}&client_id={param4}&client_secret={param5}&v={param6}
 
